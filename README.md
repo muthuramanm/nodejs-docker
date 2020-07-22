@@ -24,7 +24,6 @@ You can start node application with usual 'npm start' command as well.
 * App uses default 3306 database connectivity port.
 * Create database with the name 'node_crud'.
 
-"Happy coding :)"
 
 
 
